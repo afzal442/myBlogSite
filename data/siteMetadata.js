@@ -1,11 +1,11 @@
 const siteMetadata = {
   title: 'afzal personal website',
   author: 'Afzal Ansari',
-  headerTitle: 'AfzalSite',
+  headerTitle: 'AfzalVTH',
   description:
-    'personal web about software development, kubernetes, community and new technologies.',
-  language: 'en-us',
-  theme: 'system', // system, dark or light
+    'my personal web about software development, kubernetes, community and new technologies.',
+  language: 'en-uk',
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://afzal442.github.io',
   siteRepo: 'https://github.com/afzal442/my-personalweb',
   siteLogo: '/static/images/logo.png',
@@ -13,9 +13,9 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'afzal442@gmail.com',
   github: 'https://github.com/afzal442',
-  twitter: 'https://twitter.com/Twitter',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  twitter: 'https://twitter.com/Afzalshams1',
+  youtube: 'https://youtube.com/@afzalvth',
+  // linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
